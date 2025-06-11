@@ -1,1 +1,1 @@
-Git is open source code management tool,distributed version control system used to track the code changes made by the developer. It helps in collaboration.
+Git is open source code management tool,distributed version control system used to track the code changes made by the developer. It helps in collaboration and versioning of code.
